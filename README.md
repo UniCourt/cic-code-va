@@ -7,6 +7,7 @@ This repository was created by UniCourt on behalf of Public.Resource.Org. All th
 Following releases are included:
 
  * Release 83 dated 2021.06.
+ * Release 84 dated 2021.09
 
 
 Code which generates these files can be found here: https://github.com/UniCourt/cic-beautify-state-codes
@@ -31,3 +32,4 @@ The Standardised HTMLs can be found here: https://unicourt.github.io/cic-code-va
  **Kentucky (KY):** https://unicourt.github.io/cic-code-ky
 
  **Idaho (ID):** https://unicourt.github.io/cic-code-id
+
