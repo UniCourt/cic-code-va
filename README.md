@@ -33,3 +33,5 @@ The Standardised HTMLs can be found here: https://unicourt.github.io/cic-code-va
 
  **Idaho (ID):** https://unicourt.github.io/cic-code-id
 
+ **Vermont (VT):** https://unicourt.github.io/cic-code-vt
+
